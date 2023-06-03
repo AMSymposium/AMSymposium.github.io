@@ -4,8 +4,8 @@ ___
 ___
 
 ## Speakers
-1. Nathan Kutz
-2. Chirodeep Bakli
-3. Francesco Romano
-4. Koji Fukagata
-5. Anniruddha Bora
+1. Nathan Kutz (Plenary talk)
+2. Chirodeep Bakli (Invited talk)
+3. Francesco Romano (Invited talk)
+4. Koji Fukagata (Invited talk)
+5. Anniruddha Bora (Invited talk)
