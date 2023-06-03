@@ -1,6 +1,6 @@
 ___
 
-# Artificial Intelligence meets Fluid Dynamics
+# Applied Mathematics Symposium: Artificial Intelligence meets Fluid Dynamics
 ___
 
 ## Speakers
